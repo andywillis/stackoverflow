@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "uws-stackoverflow",
+  "version": "1.0",
+  "description": "Stackoverflow extension",
+  "icons": {
+    "48": "icons/avatar-48.png",
+    "64": "icons/avatar-64.png",
+    "128": "icons/avatar-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://stackoverflow.com/*"],
+      "js": ["content/index.js"],
+      "css": ["content/index.css"]
+    }
+  ]
+}
