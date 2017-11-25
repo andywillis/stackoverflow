@@ -4,9 +4,9 @@
   "version": "1.0",
   "description": "Stackoverflow extension",
   "icons": {
-    "48": "icons/avatar-48.png",
-    "64": "icons/avatar-64.png",
-    "128": "icons/avatar-128.png"
+    "48": "icons/icon-48.png",
+    "64": "icons/icon-64.png",
+    "128": "icons/icon-128.png"
   },
   "content_scripts": [
     {

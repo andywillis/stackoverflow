@@ -1,3 +1,3 @@
-# uws-stackoverflow
+# stackoverflow-tags
 
-Small extension to make Stackoverflow easier to use.
+Web extension to copy question tags to the sidebar for better UX.
